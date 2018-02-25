@@ -9,12 +9,12 @@ void init(){
 }
 
 int main(){
-    unsigned short a;
-    short b;
-    unsigned int c;
+    unsigned short a = 0;
+    short b = 0;
+    unsigned int c = 0;
     int d = 0,i;
-    unsigned long long e;
-    long long f;
+    unsigned long long e = 0;
+    long long f = 0;
     init();
     for(i=1;a>=n2;i++){
         a = n1+n2;
